@@ -1,0 +1,5 @@
+1. Abrir el NetBeans
+2. Darle click en Open project
+3. Elegir la carpeta de ArbolBin
+4. Abrir las 3 clases
+5. Correr el codigo en la clase que tenga la clase Main (aparecera al final del codigo)
